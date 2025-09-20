@@ -1,3 +1,18 @@
+# 💫 Hi 👋, I'm Ajay Singh
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+
+Email Me 👉 ✉️ **ajaysingh80567@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+🔭 Currently working on: Financial Dataset
+🌱 Currently learning: Advanced Machine Learning, Django
+💬 Ask me about: Python, AI/ML, Git, API development , Django
+⚡ Fun fact: I started coding by making mods for games 🎮
+
+- 💻 Languages: Python
+- ⚙️ Frameworks: PyTorch , TensorFlow, Flask, FastAPI
+- 🌐 Web: HTML, CSS , Django
+- 📦 Tools: Git,VS Code , PowerBi
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaysingh80567) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajaysingh80567@gmail.com) 
